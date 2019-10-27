@@ -1,0 +1,59 @@
+body {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 100%;
+	color: #ffc;
+	background-color: black;
+	margin: 1em;
+	padding: 0;
+		text-align:center;
+}
+
+/* By the way, this is a comment */
+
+p {
+
+	line-height: 1.5em;
+}
+
+o {
+
+	font-size: 500%;
+	color: #ffc;
+
+}
+
+
+
+h1 {
+			text-align:center;
+
+	font-size: 2em;
+	text-align: left;
+}
+
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+strong {
+	font-style: italic;
+	font-size: 200%;
+	color:#500
+}
+
+li {
+	class="active";
+	color: #100;
+	font-style: italic;
+}
+
+table {
+	background-color: #ffa;
+	
+border: 1px solid black;
+width:60%;
+height:50px;
+}
+
